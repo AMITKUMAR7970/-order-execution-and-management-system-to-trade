@@ -1,0 +1,3 @@
+C:/ADRAK/OrderManagementSystem/build/CMakeFiles/OrderManagementSystem.dir
+C:/ADRAK/OrderManagementSystem/build/CMakeFiles/edit_cache.dir
+C:/ADRAK/OrderManagementSystem/build/CMakeFiles/rebuild_cache.dir

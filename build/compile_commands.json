@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/ADRAK/OrderManagementSystem/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OrderManagementSystem.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\OrderManagementSystem.dir\\src\\main.cpp.obj -c C:\\ADRAK\\OrderManagementSystem\\src\\main.cpp",
+  "file": "C:/ADRAK/OrderManagementSystem/src/main.cpp",
+  "output": "CMakeFiles/OrderManagementSystem.dir/src/main.cpp.obj"
+}
+]
